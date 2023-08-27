@@ -28,7 +28,7 @@ allogeneic bone marrow transplants. I examined clinical characteristics across d
 the 2019-2020 season using games played, team score, and opponent score as predictors.
 
 
-# ⛹ 🏿‍ ️**Multiple Linear Regression of the 2021-2022 Lakers Regular Season**
+# ⛹🏾 ️**Multiple Linear Regression of the 2021-2022 Lakers Regular Season**
 
 [Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
  
