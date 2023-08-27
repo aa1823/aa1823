@@ -14,21 +14,33 @@ of US adults aged 35-94. I am eager to apply my skills and experience to make me
 
 **Survival Analysis of Covariates Implicating Time to Chronic Graft-Versus-Host Disease in Allogeneic Bone Marrow Transplant Recipients with 
 Leukemia in the Clinical Setting**
+
+[Paper](hereisthelink) | [Repo](hereisthelink.com)
+
 - Investigated factors affecting the time to chronic graft-versus-host disease (CGVHD) in leukemia patients who received
 allogeneic bone marrow transplants. I examined clinical characteristics across different sites.
 
 
 **Forecasting Wins and Losses with Machine Learning**
+
+[Presentation](hereisthelink.com)|[Repo](hereisthelink.com)
+ 
 - Forecasted 82-game wins and losses scores with linear discriminant analysis trained on 73- game regular season data from
 the 2019-2020 season using games played, team score, and opponent score as predictors.
 
 
-**Multiple Linear Regression of the 2021-2022 Lakers Regular Season** 
+**Multiple Linear Regression of the 2021-2022 Lakers Regular Season**
+
+[Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
+ 
 - Developed a linear model using R to predict points per game performance during the 82-game regular season 
 with a 21 by 23 dimensioned dataset from basketball-reference and nba.com, where 86% of the variation in the 
 data is explained by the model.
 
 
 **Tall People and Risk of Cardiovascular Disease**
+
+[Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
+
 - Analyzed 68,783 by 12-dimension Kaggle clinic dataset for relationship between height and risk of CVD; given 
 the data, I found that the probability of having CVD given you are tall is 0.47.
