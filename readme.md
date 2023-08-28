@@ -1,14 +1,10 @@
-## About Me
+## About Me 
 
-I am a Master of Science in Biostatistics graduate at California State University with experience in data analysis, statistical modeling, and programming. As a 
-research data analyst at the University of California, San Francisco, I analyzed National Health and Nutrition 
-Examination Survey (NHANES) data and modeled the effect of improving diet on systolic blood pressure in the population 
-of US adults aged 35-94. I am eager to apply my skills and experience to make meaningful contributions in a dynamic and innovative field.
+I am a Master of Science in Biostatistics graduate at California State University with experience in data analysis, statistical modeling, and programming using R and SAS. As a research data analyst at the University of California, San Francisco, I analyzed National Health and Nutrition Examination Survey (NHANES) data and modeled the effect of improving diet on systolic blood pressure in the population of US adults aged 35-94. I am eager to apply my skills and experience to make meaningful contributions in a dynamic and innovative field.
+
 
 - mastodon
 - personal website
-
-
 
 
 ## Projects/Capstone Experiences 
