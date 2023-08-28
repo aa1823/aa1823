@@ -12,7 +12,7 @@ of US adults aged 35-94. I am eager to apply my skills and experience to make me
 
 ## Projects/Capstone Experiences 
 
- 🩺 *Survival Analysis of Covariates Implicating Time to Chronic Graft-Versus-Host Disease in Allogeneic Bone Marrow Transplant Recipients with Leukemia in the Clinical Setting*
+ 🩺 **Survival Analysis of Covariates Implicating Time to Chronic Graft-Versus-Host Disease in Allogeneic Bone Marrow Transplant Recipients with Leukemia in the Clinical Setting**
 
 [Paper](hereisthelink) | [Repo](hereisthelink.com)
 
@@ -20,7 +20,7 @@ of US adults aged 35-94. I am eager to apply my skills and experience to make me
 allogeneic bone marrow transplants. I examined clinical characteristics across different sites.
 
 
- 🏀 *Forecasting Wins and Losses with Machine Learning*
+ 🏀 **Forecasting Wins and Losses with Machine Learning**
 
 [Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
  
@@ -28,7 +28,7 @@ allogeneic bone marrow transplants. I examined clinical characteristics across d
 the 2019-2020 season using games played, team score, and opponent score as predictors.
 
 
- ⛹🏾 ️*Multiple Linear Regression of the 2021-2022 Lakers Regular Season*
+ ⛹🏾 ️**Multiple Linear Regression of the 2021-2022 Lakers Regular Season**
 
 [Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
  
@@ -37,7 +37,7 @@ with a 21 by 23 dimensioned dataset from basketball-reference and nba.com, where
 data is explained by the model.
 
 
- 🫀 *Tall People and Risk of Cardiovascular Disease*
+ 🫀 **Tall People and Risk of Cardiovascular Disease**
 
 [Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
 
