@@ -23,7 +23,7 @@ allogeneic bone marrow transplants. I examined clinical characteristics across d
 
  🏀 **Forecasting Wins and Losses with Machine Learning**
 
-[Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
+[Presentation](https://aa1823.netlify.app/projects/forecasting-wins-and-losses-with-machine-learning/atumazuka_stat694_project#/title-slide) | [Repository](https://github.com/aa1823/Forecasting-Wins-and-Losses-with-Machine-Learning)
  
 - Forecasted 82-game wins and losses scores with linear discriminant analysis trained on 73- game regular season data from
 the 2019-2020 season using games played, team score, and opponent score as predictors.
@@ -31,7 +31,7 @@ the 2019-2020 season using games played, team score, and opponent score as predi
 
  ⛹🏾 ️**Multiple Linear Regression of the 2021-2022 Lakers Regular Season**
 
-[Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
+[Presentation](https://docs.google.com/presentation/d/10IYbtPEVv5NWqgOiy5cJY6PBJQrxdg0OaxwHcHkatOw/edit?usp=sharing) | [Repository](https://github.com/aa1823/MLRLakers2122)
  
 - Developed a linear model using R to predict points per game performance during the 82-game regular season 
 with a 21 by 23 dimensioned dataset from basketball-reference and nba.com, where 86% of the variation in the 
@@ -40,7 +40,7 @@ data is explained by the model.
 
  🫀 **Tall People and Risk of Cardiovascular Disease**
 
-[Presentation](hereisthelink.com) | [Repo](hereisthelink.com)
+[Presentation](https://docs.google.com/presentation/d/1U9NtZCW5T2i48sWn1qJxMcVl-fOO05FN8F-vDAGjSWg/edit?usp=sharing) | [Repository](https://github.com/aa1823/cvdheight)
 
 - Analyzed 68,783 by 12-dimension Kaggle clinic dataset for relationship between height and risk of CVD; given 
 the data, I found that the probability of having CVD given you are tall is 0.47.
