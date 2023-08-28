@@ -5,7 +5,8 @@ research data analyst at the University of California, San Francisco, I analyzed
 Examination Survey (NHANES) data and modeled the effect of improving diet on systolic blood pressure in the population 
 of US adults aged 35-94. I am eager to apply my skills and experience to make meaningful contributions in a dynamic and innovative field.
 
-
+- mastodon
+- personal website
 
 
 
@@ -14,7 +15,7 @@ of US adults aged 35-94. I am eager to apply my skills and experience to make me
 
  🩺 **Survival Analysis of Covariates Implicating Time to Chronic Graft-Versus-Host Disease in Allogeneic Bone Marrow Transplant Recipients with Leukemia in the Clinical Setting**
 
-[Paper](hereisthelink) | [Repo](hereisthelink.com)
+[Paper](hereisthelink) | [Repository](https://github.com/aa1823/survGVHD)
 
 - Investigated factors affecting the time to chronic graft-versus-host disease (CGVHD) in leukemia patients who received
 allogeneic bone marrow transplants. I examined clinical characteristics across different sites.
