@@ -5,7 +5,7 @@ I am a Master of Science in Biostatistics graduate at California State Universit
 
 
 
-## Projects/Capstone Experiences 
+## Select Projects
 
  🩺 **Survival Analysis of Covariates Implicating Time to Chronic Graft-Versus-Host Disease in Allogeneic Bone Marrow Transplant Recipients with Leukemia in the Clinical Setting**
 
