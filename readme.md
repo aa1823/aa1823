@@ -9,7 +9,7 @@ I am a Master of Science in Biostatistics graduate at California State Universit
 
  🩺 **Survival Analysis of Covariates Implicating Time to Chronic Graft-Versus-Host Disease in Allogeneic Bone Marrow Transplant Recipients with Leukemia in the Clinical Setting**
 
-[Paper](hereisthelink) | [Repository](https://github.com/aa1823/survGVHD)
+[Paper](https://github.com/aa1823/survGVHD/blob/main/Azuka_Atum_Final_Project_Stat697%20(1).pdf) | [Repository](https://github.com/aa1823/survGVHD)
 
 - Investigated factors affecting the time to chronic graft-versus-host disease (CGVHD) in leukemia patients who received
 allogeneic bone marrow transplants. I examined clinical characteristics across different sites.
