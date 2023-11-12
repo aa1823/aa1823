@@ -1,4 +1,4 @@
-## Welcome to My Profile!
+## Welcome!
 
 🔬 **Who I Am**: I'm a dedicated Biostatistician with a Master's degree from California State University. My journey in data analysis and statistical modeling has been driven by a deep passion for uncovering insights in health data. Specializing in R and SAS, I thrive on transforming complex datasets into meaningful stories.
 
