@@ -34,7 +34,7 @@
 - Analysis: Examined a large dataset from Kaggle.
 - Outcome: Identified a 47% probability of CVD in taller individuals.
 
-### Fixed-Effect Analysis of Baseline Serum Creatinine across sex and blood pressure levels
+### 🫘 Fixed-Effect Analysis of Baseline Serum Creatinine across sex and blood pressure levels
 [Presentation](https://github.com/aa1823/CKDproj/blob/main/Fixed-Effect%20Analysis%20of%20Baseline%20Serum%20Creatinine%20across%20sex%20and%20blood%20pressure%20levels%20.pdf) |
 [Repository](https://github.com/aa1823/CKDproj)
 - Focus: Investigating to see if there is an observable difference in baseline creatinine levels and blood pressure between sexes.
