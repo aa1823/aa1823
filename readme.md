@@ -6,6 +6,8 @@
 
 🌟 **My Goal**: My current goal is to improve and expand my statistical knowledge and skillset to better answer unsolved questions in the public healtha arena. I hope to one day give back and make great contributions to the field of biostatistics in a way that has a massive positive impact on people's health. 
 
+❤️‍🔥 **My Hobbies**: 
+
 ## Highlighted Projects
 
 ### 🧬 Survival Analysis: Unraveling Factors in Post-Transplant Disease
@@ -31,3 +33,10 @@
 - Focus: Investigating the correlation between height and cardiovascular disease.
 - Analysis: Examined a large dataset from Kaggle.
 - Outcome: Identified a 47% probability of CVD in taller individuals.
+
+### Fixed-Effect Analysis of Baseline Serum Creatinine across sex and blood pressure levels
+[Presentation](https://github.com/aa1823/CKDproj/blob/main/Fixed-Effect%20Analysis%20of%20Baseline%20Serum%20Creatinine%20across%20sex%20and%20blood%20pressure%20levels%20.pdf) |
+[Repository](https://github.com/aa1823/CKDproj)
+- Focus: Investigating to see if there is an observable difference in baseline creatinine levels and blood pressure between sexes.
+- Analysis: Examined a dataset from Kaggale.
+- Outcome: In conclusion, there is a difference in baseline creatinine across sexes, and it is statistically significant. On average, women were over 20 µmol/L lower compared to men. This is consistent with literature that says that creatinine tends to be higher in men than in women. There was no effect of blood pressure on serum creatinine. This could suggest that there are other factors at play not accounted for in the model.
