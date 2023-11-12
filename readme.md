@@ -1,6 +1,6 @@
 ## Welcome!
 
-🔬 **Who I Am**: Biostatistician with a Master's degree from California State University. My journey in data analysis and statistical modeling has been driven by a deep passion for uncovering insights in health data. Specializing in R and SAS, I thrive on transforming complex datasets into meaningful stories.
+🔬 **Who I Am**: I am a scientist that wears many hats. By training, I'm a Biostatistician with a Master's degree from California State University, but I also have a background in data analytics and data science. My journey in data analysis and statistical modeling has been driven by a deep passion in public health epidemiology. 
 
 📊 **My Experience**: At the University of California, San Francisco, as a research data analyst, I delved into the intricacies of the NHANES dataset. My focus: unveiling how dietary improvements impact systolic blood pressure among US adults. This project not only honed my analytical skills but also reinforced my commitment to public health research.
 
