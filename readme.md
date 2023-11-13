@@ -9,7 +9,9 @@
 ❤️‍🔥 **My Hobbies**: In my free time I like to learn new things, meditate, read, write, and analyze sports data. My current passion projects include: learning Python, studying African history, making art, and indoor-gardening. 
 
 
-## Highlighted Projects
+## Highlighted Projects 
+
+#These are some of the projects that I've completed over the course of my degree. 
 
 ### 🧬 Survival Analysis: Unraveling Factors in Post-Transplant Disease
 [Paper](https://github.com/aa1823/survGVHD/blob/main/Azuka_Atum_Final_Project_Stat697%20(1).pdf) | [Repository](https://github.com/aa1823/survGVHD)
