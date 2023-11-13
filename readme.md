@@ -1,8 +1,8 @@
 ## Welcome!
 
-🔬 **Who I Am**: I am a scientist that wears many hats. By training, I'm a Biostatistician with a Master's degree from California State University, but I also have a background in data analytics and data science. My journey in data analysis and statistical programming has been driven by a long-standing deep interest in public health epidemiology. 
+🔬 **Who Am I?**: I am a scientist that wears many hats. By training, I'm a Biostatistician with a Master's degree from California State University, but I also have a background in data analytics and data science. My journey in data analysis and statistical programming has been driven by a long-standing deep interest in public health epidemiology. 
 
-📊 **My Experience**: Previously, I've done modeling work to learn about the impact of diet on cardiovascular disease in US adults. My current focus: working with my lab to analyze the impact of certain xenobiotics on bronchopulmonary displasia in infants.
+📊 **My Experience**: Previously, I've done modeling work to learn about the impact of diet on cardiovascular disease in US adults. My current focus: working with my lab to analyze the impact of certain xenobiotics on bronchopulmonary displasia in infants. 
 
 🌟 **My Goal**: My current goal is to improve and expand my statistical knowledge and skillset to better answer unsolved questions in the public health arena. I hope to one day give back and make great contributions to the field of biostatistics in a way that has a massive positive impact on people's health from all walks of life--whether locally or globally. 
 
