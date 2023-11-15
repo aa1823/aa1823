@@ -21,11 +21,11 @@
 
 ### 🏀 Forecasting Wins and Losses with Machine Learning
 [Presentation](https://aa1823.netlify.app/projects/forecasting-wins-and-losses-with-machine-learning/atumazuka_stat694_project#/title-slide) | [Repository](https://github.com/aa1823/Forecasting-Wins-and-Losses-with-Machine-Learning)
-- Focus: Forecasting the full 82 game season performance of the Lakers using data from 73 games.
+- Focus: Forecasted the full 82 game season performance of the Lakers using data from 73 games.
 - Analysis/Tools: Applied linear discriminant analysis to predict win-loss records.
 - Outcome: Forecasted that had the Lakers played all 82 games, they would have won 55 games, and lost 27, with a final win percentage of 67% and a loss percentage of 33%.
 
-### ⛹🏾 ️ Regression Analysis of the Lakers' Regulas Season
+### ⛹🏾 ️ Regression Analysis of the Lakers' Regular Season
 [Presentation](https://docs.google.com/presentation/d/10IYbtPEVv5NWqgOiy5cJY6PBJQrxdg0OaxwHcHkatOw/edit?usp=sharing) | [Repository](https://github.com/aa1823/MLRLakers2122)
 - Focus: Developing a predictive model for the Lakers' points per game using 5 key features.
 - Analysis: Multiple linear regression in R.
