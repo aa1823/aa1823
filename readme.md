@@ -42,5 +42,5 @@
 [Repository](https://github.com/aa1823/CKDproj)
 - Focus: Is there an observable difference in baseline creatinine levels and blood pressure between sexes.
 - Analysis: Examined a kaggle dataset of electronic medical records of 491 patients from Tawam hospital in Al-Ain city in the United Arab Emirates in 2008 using SAS. 
-- Outcome: There is a difference in baseline creatinine across sexes, and it is statistically significant. On average, women over 20micromol/L lower compared 
-to men in the dataset. There was no effect of blood pressure on serum creatinine. 
+- Outcome: There is a difference in baseline creatinine across sexes, and it is statistically significant. On average, women over 20 µmol/L lower 
+compared to men in the dataset. There was no effect of blood pressure on serum creatinine. 
