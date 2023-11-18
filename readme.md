@@ -9,7 +9,7 @@
 ❤️‍🔥 **My Hobbies**: In my free time I like to learn new things, meditate, read, write, and analyze sports data. My current passion projects include: learning Python, studying African history, making art, and indoor-gardening. 
 
 
-## Highlighted Projects 
+ Highlighted Projects 
 
 
 
